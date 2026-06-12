@@ -425,7 +425,7 @@ SportyBet-Betting-Analytics/
 
 ## 👤 Author
 **ONWUKA CHUKWUMA**  
- Data Analyst | Python   
+ Data Analyst   
 
 ---
 
